@@ -26,12 +26,12 @@ SASS, React Native, MongoDB,
 ### Still learning:
 JavaScript, ReactJS, jQuery, NodeJS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanifool&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanifool&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
 ## My GitHub Stats
-[![nanifool's github stats](https://github-readme-stats.vercel.app/api?username=nanifool&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![nanifool's github stats](https://github-readme-stats.vercel.app/api?username=nanifool&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 <!--
