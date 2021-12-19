@@ -1,30 +1,25 @@
-# :construction: Work in progress... Perfil em processo de criação / manutenção
+<p align="center"><code>#HTML5</code> <code>#CSS3</code> <code>#JavaScript</code> <code>#Web</code> <code>#Java</code> <code>#ReactJS</code> <code>#NodeJS</code> <code>#Spring</code> <code>#TypeScript</code> <code>#Kotlin</code> <code>#App</code> <code>#Ubuntu</code> <code>#Windows</code> <code>#Android</code></p>
+<h1 align="center"> 
+About me :raising_hand:
+  <p><a href="https://www.linkedin.com/in/nanifool/"><img src="https://img.shields.io/static/v1?label=&labelColor=0077B5&logoColor=white&message=/in/nanifool&color=3a1d6e&style=for-the-badge&logo=LinkedIn"/></a>
+<a href="https://www.instagram.com/nanifool"><img src="https://img.shields.io/static/v1?label=&labelColor=E4405F&logoColor=white&message=@nanifool&color=3a1d6e&style=for-the-badge&logo=Instagram"/></a>
+<a href="https://https://dev.to/nanifool"><img src="https://img.shields.io/static/v1?label=&labelColor=0A0A0A&logoColor=white&message=dev/nanifool&color=3a1d6e&style=for-the-badge&logo=dev.to"/></p></a>
+</h4>
 
-<p>...</p>
-
-# Hello World! 👋 :earth_americas:
-
-## About me :raising_hand:
-
-### <p>I'm a brazilian software analysis and development student at UNIP :books:</p>
-<p>My name is Luana, she/her, I love technology :computer:, music :musical_note: and nature :sunrise_over_mountains:</p>
-<p>I live with 3 dogs and 6 cats :paw_prints:<p><img src=https://media.giphy.com/media/KCSsp7Ov0nLe0vw6qS/giphy.gif width="85" height="85" /> <img src=https://media.giphy.com/media/QmGZan3zQnep7M25f8/giphy.gif width="85" height="85" /><img src=https://media.giphy.com/media/lpyJOyUl3dJ7028MHx/giphy.gif width="85" height="85" /><img src=https://imgur.com/pXNtHAr.png width="85" height="85" /></p>
-
-## Talk to me :speech_balloon:
-<p><img src="https://img.shields.io/static/v1?link=https://www.linkedin.com/in/nanifool/&label=&labelColor=0077B5&logoColor=white&message=/in/nanifool&color=3a1d6e&style=for-the-badge&logo=LinkedIn"/>
-<img src="https://img.shields.io/static/v1?link=https://www.instagram.com/nanifool&label=&labelColor=E4405F&logoColor=white&message=@nanifool&color=3a1d6e&style=for-the-badge&logo=Instagram"/>
-<img src="https://img.shields.io/static/v1?link=https://https://dev.to/nanifool&label=&labelColor=0A0A0A&logoColor=white&message=dev/nanifool&color=3a1d6e&style=for-the-badge&logo=dev.to"/></p>
+<p>"Hello World!"👋 :earth_americas: I'm a brazilian software analysis and development student at UNIP :books: and <strong>android developer intern at Sicredi</strong> :green_heart:</p>
+<p>My name is Luana, she/her/they, I love technology :computer:, music :musical_note: and nature :sunrise_over_mountains:</p>
+<p>I live with 3 dogs and 3 cats :paw_prints:<p><img src=https://media.giphy.com/media/KCSsp7Ov0nLe0vw6qS/giphy.gif width="85" height="85" /> <img src=https://media.giphy.com/media/QmGZan3zQnep7M25f8/giphy.gif width="85" height="85" /><img src=https://media.giphy.com/media/lpyJOyUl3dJ7028MHx/giphy.gif width="85" height="85" /><img src=https://imgur.com/pXNtHAr.png width="85" height="85"  /></p>
 
 ## Languages & tools :page_with_curl:
 
-### Learned:
-HTML5, CSS3, JavaScript, Git, GitHub, C
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" /></p>
+
 
 ### To learn:
-SASS, React Native, MongoDB, 
+SASS, React Native, Flutter
 
 ### Still learning:
-JavaScript, ReactJS, jQuery, NodeJS
+JavaScript, ReactJS, TypeScript, NodeJS, Java, Spring, Kotlin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanifool&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
