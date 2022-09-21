@@ -15,9 +15,9 @@ About me :raising_hand:
 </div><br />
 
 
-<p>"Hello World!"👋 :earth_americas: I'm a brazilian software analysis and development student at UNIP :books: and <strong>android developer intern at Sicredi</strong> :green_heart:</p>
+<p>"Hello World!"👋 :earth_americas: I'm a brazilian student :books: and <strong>developer intern at Sicredi</strong> :green_heart:</p>
 <p>My name is Luana, she/her/they, I love technology :computer:, music :musical_note: and nature :sunrise_over_mountains:</p>
-<p>I live with 3 dogs and 3 cats :paw_prints:</p>
+<p>I live with 3 dogs and 2 cats :paw_prints:</p>
 <p align="center"><img src=https://media.giphy.com/media/KCSsp7Ov0nLe0vw6qS/giphy.gif width="85" height="85" /> <img src=https://media.giphy.com/media/QmGZan3zQnep7M25f8/giphy.gif width="85" height="85" /><img src=https://media.giphy.com/media/lpyJOyUl3dJ7028MHx/giphy.gif width="85" height="85" /><img src=https://imgur.com/pXNtHAr.png width="85" height="85"  /></p><br />
 
 <h2 align="center"> Languages & tools :page_with_curl: </h2><br />
